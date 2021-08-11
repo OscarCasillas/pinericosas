@@ -1,12 +1,12 @@
 const quotes = [
-  "En esta isla vivió, durante cuatro largos años, Robinson Crusoe, cuya historia no solamente fascinó y emocionó al mundo entero sino que puso en el mapa del mundo a esta isla en la cual viven ochocientas chilenas y chilenos.",
-  "Y durante nuestro Gobierno, vamos a entregar cinco nuevos ‘tiatros’ regionales en Iquique, La Serena, ‘Rancuagua’, Concepción y Punta Arenas.",
-  "Si usted maneja, no conduce.",
-  "Nunca han mirado las estrellas, la galactea o el fondo del alma? Una cosa es mirar e intentar descubrir y otra cosa ver que es lo sensorial",
-  "Marepoto",
-  "Tusunami",
-  "Es la misma bandera con que hemos ‘cubrido’ tantas veces los féretros de nuestros ‘mártis’",
-  "Ha llegado el fin de año, tiempo en que nos preguntamos, qué hicimos bien, qué hicimos mal, qué ‘podimos’ haber hecho mejor"
+  "linea 1",
+  "linea 2",
+  "linea 3",
+  "linea 4",
+  "linea 5",
+  "linea 6",
+  "linea 7",
+  "linea 8"
 ];
 
 /**
