@@ -1,0 +1,23 @@
+{
+  "name": "pinericosas",
+  "version": "1.0.0",
+  "description": "get a random",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OscarCasillas/pinericosas.git"
+  },
+  "keywords": [
+    "npm",
+    "first_app"
+  ],
+  "author": "Oscar Casillas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OscarCasillas/pinericosas/issues"
+  },
+  "homepage": "https://github.com/OscarCasillas/pinericosas#readme"
+}
